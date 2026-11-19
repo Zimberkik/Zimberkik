@@ -17,9 +17,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **MemePanicButton** — meme panic button
 
 ### Forge 1.16.5 
-- **Ultimate Defeater** — anti-horror tool
-- **Meme Coffins 2.0** — meme coffins
-- **Horror Defeater 3.0** — protection against horror mods
+- **Ultimate Defeater** — anti-horror mod "4coffins" tool
 - **Screenshot Clipboard** — copies screenshots to clipboard
 - **ZimQoL** — quality-of-life mod
 - **ZimMusic** — in-game music player
