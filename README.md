@@ -29,7 +29,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **ClockMod** — clock on screen
 - **AutoGG** — automatic "gg" after a match
 - **Tracer** — draws 3d line to killer in murder mystery
-- **KillerAlert** — alerts eho is killer
+- **KillerAlert** — alerts who is killer
 - **MemePanicButton** (2 versions) — meme panic button
 
 ## 💻 Windows apps 
