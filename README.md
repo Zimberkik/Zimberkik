@@ -2,7 +2,7 @@
 
 Java developer. I build Minecraft mods and small Windows & Android apps.
 
-**50+ projects built over the years.** I'm uploading them here gradually — one repository at a time.
+**40+ projects built over the month.** I'm uploading them here gradually — one repository at a time.
 
 ## 🎮 Minecraft mods
 
@@ -12,7 +12,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **ChatHistory** — keeps chat history
 - **SoundBlocker** — blocks chosen sounds
 - **SoundDetector** — shows which sound is playing
-- **Chat Filter** — filters chat messages
+- **Chat Filter** — filters chat messages or replace words locally
 - **Spinning Killaura** — rotating killaura (personal build)
 - **MemePanicButton** — meme panic button
 
@@ -23,41 +23,39 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **Screenshot Clipboard** — copies screenshots to clipboard
 - **ZimQoL** — quality-of-life mod
 - **ZimMusic** — in-game music player
-- **ZimHUD** — clean HUD
+- **ZimHUD** — show days and coords
 
 ### Fabric 1.21.x (11)
 - **ChatHider** (2 versions) — hides chat
 - **Chat Filter** — filters chat messages
 - **ClockMod** — clock on screen
 - **AutoGG** — automatic "gg" after a match
-- **Tracer** — draws lines to entities
-- **KillerAlert** — alerts when someone is near
-- **KillerChat** — chat helper
-- **HitboxHider** — hides hitboxes
-- **Sound Control** — sound manager
+- **Tracer** — draws 3d line to killer in murder mystery
+- **KillerAlert** — alerts eho is killer
 - **MemePanicButton** (2 versions) — meme panic button
 
 ## 💻 Windows apps (5)
 - **ClockOverlay** — clock overlay on top of all windows
-- **ProcessTimer** — tracks how long programs run
-- **CmdTimeTracker** — time tracker in the command line
+- **ProcessTimer** — close chosen program when timer stopes
+- **CmdTimeTracker** — count hours of CMD usage
 - **IconGenerator** — makes PNG icons for mods and apps
-- **CinemaIntro** — JavaFX intro animation
+- **CinemaIntro** — JavaFX intro animation for prism launcher instances
 - plus icons and small utilities
 
 ## 📱 Android apps (2)
-- **NoScreenTime** — screen time control
+- **NoScreenTime** — no screen time count
 - **IconMaker** — icon maker
 
 ## 🎨 Assets
 - **X-Ray pack** — water texture pack
-- **Prism modpacks** — for trailers and icons
+- **Prism icons for all mods in my instances** — for beaty
 
 ## 🛠 Tech
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📫 Contacts
 - YouTube: [@GamerFight8](https://www.youtube.com/@GamerFight8)
