@@ -6,7 +6,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 
 ## 🎮 Minecraft mods
 
-### Forge 1.8.9 (8)
+### Forge 1.8.9 
 - **ChatToggle** — show/hide chat with one key
 - **TimeHUD** — clock on screen
 - **ChatHistory** — keeps chat history
@@ -16,7 +16,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **Spinning Killaura** — rotating killaura (personal build)
 - **MemePanicButton** — meme panic button
 
-### Forge 1.16.5 (7)
+### Forge 1.16.5 
 - **Ultimate Defeater** — anti-horror tool
 - **Meme Coffins 2.0** — meme coffins
 - **Horror Defeater 3.0** — protection against horror mods
@@ -25,7 +25,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **ZimMusic** — in-game music player
 - **ZimHUD** — show days and coords
 
-### Fabric 1.21.x (11)
+### Fabric 1.21.x 
 - **ChatHider** (2 versions) — hides chat
 - **Chat Filter** — filters chat messages
 - **ClockMod** — clock on screen
@@ -34,7 +34,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **KillerAlert** — alerts eho is killer
 - **MemePanicButton** (2 versions) — meme panic button
 
-## 💻 Windows apps (5)
+## 💻 Windows apps 
 - **ClockOverlay** — clock overlay on top of all windows
 - **ProcessTimer** — close chosen program when timer stopes
 - **CmdTimeTracker** — count hours of CMD usage
@@ -42,7 +42,7 @@ Java developer. I build Minecraft mods and small Windows & Android apps.
 - **CinemaIntro** — JavaFX intro animation for prism launcher instances
 - plus icons and small utilities
 
-## 📱 Android apps (2)
+## 📱 Android apps 
 - **NoScreenTime** — no screen time count
 - **IconMaker** — icon maker
 
